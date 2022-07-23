@@ -1,0 +1,17 @@
+.หัวข้อ{
+    color: darksalmon;
+   text-align: center;
+    
+}
+.ช่องทาง{
+    color: gold;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.กล่อง1{
+    width: 150px;
+    height: 150px;
+    
+   
+}
